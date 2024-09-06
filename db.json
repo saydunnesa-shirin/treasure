@@ -1,0 +1,72 @@
+{
+  "wings": [
+    {
+      "id": "9227",
+      "name": "Fritsch, Carroll and Jaskolski"
+    },
+    {
+      "id": "3278",
+      "name": "Fritsch Inc"
+    }
+  ],
+  "productTypes": [
+    {
+      "id": "5c0a",
+      "wingId": "9227",
+      "name": "Toys"
+    },
+    {
+      "id": "4509",
+      "wingId": "9227",
+      "name": "Tools"
+    },
+    {
+      "id": "0281",
+      "wingId": "9227",
+      "name": "Clothing"
+    },
+    {
+      "id": "714c",
+      "wingId": "9227",
+      "name": "Industrial"
+    }
+  ],
+  "products": [
+    {
+      "id": "8913",
+      "productTypeId": "15bf",
+      "name": "Baby",
+      "url": "https://loremflickr.com/150/150/abstract?lock=45899"
+    },
+    {
+      "id": "925c",
+      "productTypeId": 1,
+      "name": "Sports",
+      "url": "https://loremflickr.com/150/150/abstract?lock=69729"
+    },
+    {
+      "id": "096b",
+      "productTypeId": null,
+      "name": "Clothing",
+      "url": "https://loremflickr.com/150/150/abstract?lock=67473"
+    },
+    {
+      "id": "6138",
+      "productTypeId": null,
+      "name": "Beauty",
+      "url": "https://loremflickr.com/150/150/abstract?lock=33000"
+    },
+    {
+      "id": "838a",
+      "productTypeId": "5c0a",
+      "name": "Beauty",
+      "url": "https://loremflickr.com/150/150/abstract?lock=79851"
+    },
+    {
+      "id": "924f",
+      "productTypeId": "5c0a",
+      "name": "Beauty",
+      "url": "https://loremflickr.com/150/150/abstract?lock=9185"
+    }
+  ]
+}
